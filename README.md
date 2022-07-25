@@ -23,6 +23,12 @@ ENB 核心：http://www.enbdev.com/download_mod_fallout4.htm
 
 Reactor：https://www.nexusmods.com/fallout4/mods/57321
 
+# UI
+
+先下载 FALL UI：https://www.nexusmods.com/fallout4/mods/51813
+
+基于原版的 FALL UI：+https://www.nexusmods.com/fallout4/mods/56002
+
 # 其他
 
 Buffout: https://www.nexusmods.com/fallout4/mods/47359
@@ -126,6 +132,16 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 NPC 饮酒修复：https://www.nexusmods.com/fallout4/mods/53980
 
 AI大修：https://www.nexusmods.com/fallout4/mods/57741
+
+爆头：https://www.nexusmods.com/fallout4/mods/55012
+
+食物热气腾腾效果：https://www.nexusmods.com/fallout4/mods/57521
+
+更好的战术动画：https://www.nexusmods.com/fallout4/mods/57642
+
+高斯步枪修复：https://www.nexusmods.com/fallout4/mods/55529
+
+带血的近战武器优化：https://www.nexusmods.com/fallout4/mods/58051
 
 # 声音
 
@@ -313,4 +329,18 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 
 高清十毫米手枪：https://www.nexusmods.com/fallout4/mods/33107
 
-高清核子可乐
+高清核子可乐：https://www.nexusmods.com/fallout4/mods/53789
+
+高清钞票：https://www.nexusmods.com/fallout4/mods/59016
+
+高清贵金属：https://www.nexusmods.com/fallout4/mods/57088
+
+高清电子高倍镜：https://www.nexusmods.com/fallout4/mods/55070
+
+木兰的新衣：https://www.nexusmods.com/fallout4/mods/56426
+
+高清 LOD：https://www.nexusmods.com/fallout4/mods/56138
+
+高清蟑螂：https://www.nexusmods.com/fallout4/mods/59609
+
+高清蟹女皇：https://www.nexusmods.com/fallout4/mods/59639
