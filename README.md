@@ -83,11 +83,21 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 添加木栈桥的捕捉点：https://www.nexusmods.com/fallout4/mods/8905
 
+原版建筑更多捕捉点：https://www.nexusmods.com/fallout4/mods/10032
+
 杠杆步枪动作修复：https://www.nexusmods.com/fallout4/mods/20454
 
 81号避难所照明+捕捉点：https://www.nexusmods.com/fallout4/mods/17174
 
 添加带玻璃的混凝土墙面：https://www.nexusmods.com/fallout4/mods/18360
+
+刀片谷不再浮空：https://www.nexusmods.com/fallout4/mods/13823
+
+修复落差抖动：https://www.nexusmods.com/fallout4/mods/47760
+
+药物使用动画重做：https://www.nexusmods.com/fallout4/mods/35403
+
+角色移动速度修复：https://www.nexusmods.com/fallout4/mods/45943?tab=description
 
 # 声音
 
@@ -147,7 +157,43 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 红火箭灯光：https://www.nexusmods.com/fallout4/mods/9482
 
+车辆反射：https://www.nexusmods.com/fallout4/mods/62004
+
+枪口火花和热流：https://www.nexusmods.com/fallout4/mods/25114
+
+动态枪口阴影：https://www.nexusmods.com/fallout4/mods/2571
+
+阴影增强：https://www.nexusmods.com/fallout4/mods/17592
+
+窗户反射大修：https://www.nexusmods.com/fallout4/mods/43458
+
+黎明黄昏大修：https://www.nexusmods.com/fallout4/mods/49613
+
+血雾大修：https://www.nexusmods.com/fallout4/mods/44397
+
+核弹爆炸特效大修：https://www.nexusmods.com/fallout4/mods/11641
+
+夜间辉光：https://www.nexusmods.com/fallout4/mods/16265
+
+动力装甲标记视觉效果不再显示队友：https://www.nexusmods.com/fallout4/mods/4603
+
+敌对探照灯阴影：https://www.nexusmods.com/fallout4/mods/11364
+
+降雨更加密集：https://www.nexusmods.com/fallout4/mods/499
+
+电影光晕：https://www.nexusmods.com/fallout4/mods/28200
+
+水桶透明修复：https://www.nexusmods.com/fallout4/mods/46510
+
 # 贴图 & 模型
+
+CBBE：https://www.nexusmods.com/fallout4/mods/15
+
+3BBB：https://www.nexusmods.com/fallout4/mods/39006
+
+3BBB 物理：https://www.nexusmods.com/fallout4/mods/48978
+
+森林大修：https://www.nexusmods.com/fallout4/mods/45330
 
 真实血液：https://www.nexusmods.com/fallout4/mods/212
 
@@ -209,6 +255,10 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 高清纹理包：https://www.nexusmods.com/fallout4/mods/318
 
-高清物件包：https://www.nexusmods.com/fallout4/mods/3747?tab=files
+高清物件包：https://www.nexusmods.com/fallout4/mods/3747
 
-原版贴图优化：https://www.nexusmods.com/fallout4/mods/1204?tab=files
+原版贴图优化：https://www.nexusmods.com/fallout4/mods/1204
+
+采石场高清：https://www.nexusmods.com/fallout4/mods/1366
+
+高清尸鬼：https://www.nexusmods.com/fallout4/mods/20555
