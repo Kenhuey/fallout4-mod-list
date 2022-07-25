@@ -1,8 +1,31 @@
+# 备注
+
+尽量使用 vortex
+
+请先确认辐射4下载的是英文版且全 DLC，并且不要下载官方的高清材质包
+
+ENB 或者 F4SE 需要提前安装
+
+PRP 需要在最后加载！
+
 # 前置
 
 MCM：https://www.nexusmods.com/fallout4/mods/21497 & 汉化：https://www.nexusmods.com/fallout4/mods/47986
 
 F4SE：http://f4se.silverlock.org/
+
+ENB 核心：http://www.enbdev.com/download_mod_fallout4.htm
+
+# ENB
+
+『shift+f12』 选择打开或者关闭 ENB
+『shift+enter』 打开 enb 设置界面，弄完记得 save
+
+Reactor：https://www.nexusmods.com/fallout4/mods/57321
+
+# 其他
+
+Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 # 装备
 
@@ -12,9 +35,17 @@ F4SE：http://f4se.silverlock.org/
 
 # 功能性
 
-降低枪口：https://www.nexusmods.com/fallout4/mods/522
+全局汉化补丁：https://www.nexusmods.com/fallout4/mods/28854?tab=files
 
 非官方修复：https://www.nexusmods.com/fallout4/mods/4598 & 汉化：https://www.nexusmods.com/fallout4/mods/29406
+
+浮动生命条：https://www.nexusmods.com/fallout4/mods/21636
+
+降低枪口：https://www.nexusmods.com/fallout4/mods/522
+
+营地被攻击时，NPC 刷新在营地外部：https://www.nexusmods.com/fallout4/mods/12892
+
+同伴攻击精准度提升：https://www.nexusmods.com/fallout4/mods/11674
 
 更长的电线：https://www.nexusmods.com/fallout4/mods/2241
 
@@ -31,6 +62,8 @@ F4SE：http://f4se.silverlock.org/
 更快进入动力甲：https://www.nexusmods.com/fallout4/mods/4408
 
 允许用 holo tape 在生存模式快速保存：https://www.nexusmods.com/fallout4/mods/12593
+
+快速传送到定居点：https://www.nexusmods.com/fallout4/mods/12685
 
 可连接的垃圾围栏（捕捉点优化）：https://www.nexusmods.com/fallout4/mods/9000
 
@@ -49,6 +82,8 @@ F4SE：http://f4se.silverlock.org/
 更远的弹孔显示：https://www.nexusmods.com/fallout4/mods/1075
 
 添加木栈桥的捕捉点：https://www.nexusmods.com/fallout4/mods/8905
+
+杠杆步枪动作修复：https://www.nexusmods.com/fallout4/mods/20454
 
 # 声音
 
@@ -72,7 +107,15 @@ F4SE：http://f4se.silverlock.org/
 
 枪械声音：https://www.nexusmods.com/fallout4/mods/1034
 
+高堡奇人主界面以及 bgm：https://www.nexusmods.com/fallout4/mods/25650
+
+环境音乐：https://www.nexusmods.com/fallout4/mods/52594
+
+情话：https://www.nexusmods.com/fallout4/mods/26638 & 汉化：https://www.nexusmods.com/fallout4/mods/44450
+
 # 环境
+
+室内光源大修：https://www.nexusmods.com/fallout4/mods/22101 & 汉化：https://www.nexusmods.com/fallout4/mods/55832
 
 真实风暴（天气）：https://www.nexusmods.com/fallout4/mods/4472
 
@@ -83,6 +126,8 @@ F4SE：http://f4se.silverlock.org/
 环境灯光大修：https://www.nexusmods.com/fallout4/mods/2139
 
 更亮的营地（避难所）灯：https://www.nexusmods.com/fallout4/mods/2494
+
+改进的营地（定居点）灯：https://www.nexusmods.com/fallout4/mods/2567
 
 灯光效果增强：https://www.nexusmods.com/fallout4/mods/13596 & 汉化：https://www.nexusmods.com/fallout4/mods/29412
 
@@ -110,6 +155,8 @@ F4SE：http://f4se.silverlock.org/
 
 高清动力装甲：https://www.nexusmods.com/fallout4/mods/1901
 
+高清电脑材质：https://www.nexusmods.com/fallout4/mods/52594
+
 山庄的屋顶修复：https://www.nexusmods.com/fallout4/mods/6825
 
 重做的核心（发光橙色）：https://www.nexusmods.com/fallout4/mods/59679
@@ -128,8 +175,4 @@ F4SE：http://f4se.silverlock.org/
 
 减少路上的水坑：https://www.nexusmods.com/fallout4/mods/17850
 
-# ENB
-
-# 其他
-
-Buffout: https://www.nexusmods.com/fallout4/mods/47359
+远港死鱼高清修复：https://www.nexusmods.com/fallout4/mods/14726
