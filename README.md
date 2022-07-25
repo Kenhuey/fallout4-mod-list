@@ -85,6 +85,10 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 杠杆步枪动作修复：https://www.nexusmods.com/fallout4/mods/20454
 
+81号避难所照明+捕捉点：https://www.nexusmods.com/fallout4/mods/17174
+
+添加带玻璃的混凝土墙面：https://www.nexusmods.com/fallout4/mods/18360
+
 # 声音
 
 更安静的炮塔和发电机：https://www.nexusmods.com/fallout4/mods/2819
@@ -141,6 +145,8 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 让发光生物真正发光：https://www.nexusmods.com/fallout4/mods/9239
 
+红火箭灯光：https://www.nexusmods.com/fallout4/mods/9482
+
 # 贴图 & 模型
 
 真实血液：https://www.nexusmods.com/fallout4/mods/212
@@ -176,3 +182,33 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 减少路上的水坑：https://www.nexusmods.com/fallout4/mods/17850
 
 远港死鱼高清修复：https://www.nexusmods.com/fallout4/mods/14726
+
+修复 alpha 贴图：https://www.nexusmods.com/fallout4/mods/28974
+
+显示更远地方：https://www.nexusmods.com/fallout4/mods/20713
+
+真实的草：https://www.nexusmods.com/fallout4/mods/23469
+
+钻石城大修：https://www.nexusmods.com/fallout4/mods/12005
+
+高清生物纹理：https://www.nexusmods.com/fallout4/mods/23159/
+
+高清杂项纹理：https://www.nexusmods.com/fallout4/mods/15945
+
+沙砾重做：https://www.nexusmods.com/fallout4/mods/17461/
+
+木地板重做：https://www.nexusmods.com/fallout4/mods/2174/
+
+高清道路桥梁：https://www.nexusmods.com/fallout4/mods/18331
+
+星空大修：https://www.nexusmods.com/fallout4/mods/145
+
+泥地大修：https://www.nexusmods.com/fallout4/mods/1769
+
+岩石大修：https://www.nexusmods.com/fallout4/mods/1400/
+
+高清纹理包：https://www.nexusmods.com/fallout4/mods/318
+
+高清物件包：https://www.nexusmods.com/fallout4/mods/3747?tab=files
+
+原版贴图优化：https://www.nexusmods.com/fallout4/mods/1204?tab=files
