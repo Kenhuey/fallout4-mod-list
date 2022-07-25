@@ -121,6 +121,12 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 钻石成卫兵随机装备：https://www.nexusmods.com/fallout4/mods/12100
 
+第一人称空手跑步动画：https://www.nexusmods.com/fallout4/mods/62240
+
+NPC 饮酒修复：https://www.nexusmods.com/fallout4/mods/53980
+
+AI大修：https://www.nexusmods.com/fallout4/mods/57741
+
 # 声音
 
 更安静的炮塔和发电机：https://www.nexusmods.com/fallout4/mods/2819
@@ -261,6 +267,8 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 
 真实的草：https://www.nexusmods.com/fallout4/mods/23469
 
+减少没需要的草：https://www.nexusmods.com/fallout4/mods/38360
+
 钻石城大修：https://www.nexusmods.com/fallout4/mods/12005
 
 高清生物纹理：https://www.nexusmods.com/fallout4/mods/23159/
@@ -304,3 +312,5 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 高清西装：https://www.nexusmods.com/fallout4/mods/2625
 
 高清十毫米手枪：https://www.nexusmods.com/fallout4/mods/33107
+
+高清核子可乐
