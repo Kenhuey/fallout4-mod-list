@@ -87,7 +87,11 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 杠杆步枪动作修复：https://www.nexusmods.com/fallout4/mods/20454
 
-81号避难所照明+捕捉点：https://www.nexusmods.com/fallout4/mods/17174
+88号避难所照明+捕捉点：https://www.nexusmods.com/fallout4/mods/17174
+
+88号避难所没有建造数量限制+电源半径增加：https://www.nexusmods.com/fallout4/mods/16879
+
+花园地块捕捉点：https://stackoverflow.com/
 
 添加带玻璃的混凝土墙面：https://www.nexusmods.com/fallout4/mods/18360
 
@@ -97,7 +101,25 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 药物使用动画重做：https://www.nexusmods.com/fallout4/mods/35403
 
-角色移动速度修复：https://www.nexusmods.com/fallout4/mods/45943?tab=description
+角色移动速度修复：https://www.nexusmods.com/fallout4/mods/45943
+
+装甲摔落不会敌对：https://www.nexusmods.com/fallout4/mods/9019
+
+同伴不会摔死：https://www.nexusmods.com/fallout4/mods/6447
+
+动力装甲大修：https://www.nexusmods.com/fallout4/mods/7515
+
+加载界面现实时间：https://www.nexusmods.com/fallout4/mods/26759
+
+添加更多样子的掠夺者：https://www.nexusmods.com/fallout4/mods/15780
+
+替换十毫米手枪动画：https://www.nexusmods.com/fallout4/mods/31508
+
+添加弱弱的面部照明：https://www.nexusmods.com/fallout4/mods/30035
+
+女角色坐姿修改：https://www.nexusmods.com/fallout4/mods/3426
+
+钻石成卫兵随机装备：https://www.nexusmods.com/fallout4/mods/12100
 
 # 声音
 
@@ -132,6 +154,8 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 室内光源大修：https://www.nexusmods.com/fallout4/mods/22101 & 汉化：https://www.nexusmods.com/fallout4/mods/55832
 
 真实风暴（天气）：https://www.nexusmods.com/fallout4/mods/4472
+
+真实晚上：https://www.nexusmods.com/fallout4/mods/9253
 
 哔哔小子真实灯光：https://www.nexusmods.com/fallout4/mods/10840
 
@@ -185,6 +209,8 @@ Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
 水桶透明修复：https://www.nexusmods.com/fallout4/mods/46510
 
+噶抓的氪金狗眼：https://www.nexusmods.com/fallout4/mods/9571
+
 # 贴图 & 模型
 
 CBBE：https://www.nexusmods.com/fallout4/mods/15
@@ -207,6 +233,8 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 
 高清动力装甲：https://www.nexusmods.com/fallout4/mods/1901
 
+动力装甲地图亮度修复：https://www.nexusmods.com/fallout4/mods/8854
+
 高清电脑材质：https://www.nexusmods.com/fallout4/mods/52594
 
 山庄的屋顶修复：https://www.nexusmods.com/fallout4/mods/6825
@@ -222,8 +250,6 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 铁管武器材质修复：https://www.nexusmods.com/fallout4/mods/3181
 
 所有武器高清材质大修：https://www.nexusmods.com/fallout4/mods/8556
-
-护膝位置修改：https://www.nexusmods.com/fallout4/mods/5599
 
 减少路上的水坑：https://www.nexusmods.com/fallout4/mods/17850
 
@@ -262,3 +288,19 @@ CBBE：https://www.nexusmods.com/fallout4/mods/15
 采石场高清：https://www.nexusmods.com/fallout4/mods/1366
 
 高清尸鬼：https://www.nexusmods.com/fallout4/mods/20555
+
+高清兄弟会飞船：https://www.nexusmods.com/fallout4/mods/4141
+
+高清街道牌：https://www.nexusmods.com/fallout4/mods/3317
+
+坠机地大修：https://www.nexusmods.com/fallout4/mods/12827
+
+高清战斗盔甲：https://www.nexusmods.com/fallout4/mods/7381
+
+高清头发：https://www.nexusmods.com/fallout4/mods/8583
+
+高清 UFO：https://www.nexusmods.com/fallout4/mods/13521
+
+高清西装：https://www.nexusmods.com/fallout4/mods/2625
+
+高清十毫米手枪：https://www.nexusmods.com/fallout4/mods/33107
