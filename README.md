@@ -32,7 +32,7 @@ F4SE：http://f4se.silverlock.org/
 
 允许用 holo tape 在生存模式快速保存：https://www.nexusmods.com/fallout4/mods/12593
 
-可连接的垃圾围栏：https://www.nexusmods.com/fallout4/mods/9000
+可连接的垃圾围栏（捕捉点优化）：https://www.nexusmods.com/fallout4/mods/9000
 
 垂直飞机加强：https://www.nexusmods.com/fallout4/mods/2857
 
@@ -40,9 +40,15 @@ F4SE：http://f4se.silverlock.org/
 
 让子弹掉落在地上的时间更长：https://www.nexusmods.com/fallout4/mods/870
 
+弹匣掉落可见：https://www.nexusmods.com/fallout4/mods/15118
+
 真实弹药发射，弹道大修（速度和下坠）：https://www.nexusmods.com/fallout4/mods/12986
 
 动力装甲第一人称界面透明：https://www.nexusmods.com/fallout4/mods/178
+
+更远的弹孔显示：https://www.nexusmods.com/fallout4/mods/1075
+
+添加木栈桥的捕捉点：https://www.nexusmods.com/fallout4/mods/8905
 
 # 声音
 
@@ -51,6 +57,20 @@ F4SE：http://f4se.silverlock.org/
 钻石台电台扩充：https://www.nexusmods.com/fallout4/mods/637
 
 真实环境音：https://www.nexusmods.com/fallout4/mods/10189
+
+鸟的声音大修：https://www.nexusmods.com/fallout4/mods/2397
+
+放大下雨的声音：https://www.nexusmods.com/fallout4/mods/1073
+
+真实脚步：https://www.nexusmods.com/fallout4/mods/35904
+
+跑步呼吸：https://www.nexusmods.com/fallout4/mods/59322
+
+真实爆炸：https://www.nexusmods.com/fallout4/mods/6647
+
+不穿鞋的脚步：https://www.nexusmods.com/fallout4/mods/14790
+
+枪械声音：https://www.nexusmods.com/fallout4/mods/1034
 
 # 环境
 
@@ -70,13 +90,19 @@ F4SE：http://f4se.silverlock.org/
 
 第三轨酒吧大修：https://www.nexusmods.com/fallout4/mods/15388 & 汉化：https://www.nexusmods.com/fallout4/mods/29845
 
+战区大修：https://www.nexusmods.com/fallout4/mods/21498
+
+雨天材质反射修复：https://www.nexusmods.com/fallout4/mods/23389
+
+让发光生物真正发光：https://www.nexusmods.com/fallout4/mods/9239
+
 # 贴图 & 模型
 
 真实血液：https://www.nexusmods.com/fallout4/mods/212
 
 卫星世界地图：https://www.nexusmods.com/fallout4/mods/8989
 
-成就显示避难所女孩：https://www.nexusmods.com/fallout4/mods/14252
+成就显示避 vault girl：https://www.nexusmods.com/fallout4/mods/14252
 
 战斗霰弹枪高清纹理：https://www.nexusmods.com/fallout4/mods/4046
 
@@ -89,6 +115,18 @@ F4SE：http://f4se.silverlock.org/
 重做的核心（发光橙色）：https://www.nexusmods.com/fallout4/mods/59679
 
 哔哔小子和界面提示显示 vault girl：https://www.nexusmods.com/fallout4/mods/38220
+
+高清弹药以及弹药箱：https://www.nexusmods.com/fallout4/mods/5418
+
+瓶装材质大修：https://www.nexusmods.com/fallout4/mods/1500
+
+铁管武器材质修复：https://www.nexusmods.com/fallout4/mods/3181
+
+所有武器高清材质大修：https://www.nexusmods.com/fallout4/mods/8556
+
+护膝位置修改：https://www.nexusmods.com/fallout4/mods/5599
+
+减少路上的水坑：https://www.nexusmods.com/fallout4/mods/17850
 
 # ENB
 
