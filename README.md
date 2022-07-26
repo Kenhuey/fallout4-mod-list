@@ -137,7 +137,7 @@ AI大修：https://www.nexusmods.com/fallout4/mods/57741
 
 食物热气腾腾效果：https://www.nexusmods.com/fallout4/mods/57521
 
-更好的战术动画：https://www.nexusmods.com/fallout4/mods/57642
+更好的战术动画：https://www.nexusmods.com/fallout4/mods/57642 & 前置：https://www.nexusmods.com/fallout4/mods/29905 & https://www.nexusmods.com/fallout4/mods/49822
 
 高斯步枪修复：https://www.nexusmods.com/fallout4/mods/55529
 
