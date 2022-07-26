@@ -10,8 +10,6 @@ PRP 需要在最后加载！
 
 # 前置
 
-MCM：https://www.nexusmods.com/fallout4/mods/21497 & 汉化：https://www.nexusmods.com/fallout4/mods/47986
-
 F4SE：http://f4se.silverlock.org/
 
 ENB 核心：http://www.enbdev.com/download_mod_fallout4.htm
@@ -30,6 +28,8 @@ Reactor：https://www.nexusmods.com/fallout4/mods/57321
 基于原版的 FALL UI：+https://www.nexusmods.com/fallout4/mods/56002
 
 # 其他
+
+MCM：https://www.nexusmods.com/fallout4/mods/21497 & 汉化：https://www.nexusmods.com/fallout4/mods/47986
 
 Buffout: https://www.nexusmods.com/fallout4/mods/47359
 
